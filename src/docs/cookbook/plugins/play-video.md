@@ -39,7 +39,7 @@ dependency to your `pubspec.yaml`.
 dependencies:
   flutter:
     sdk: flutter
-  video_player:
+  video_player: <latest_version>
 ```
 
 ## 2. Add permissions to your app
